@@ -1,0 +1,6 @@
+CREATE TABLE Musteri(
+    id INTEGER AUTO_INCREMENT NOT NULL ,
+    ad VARCHAR(255) NOT NULL ,
+    adres VARCHAR(255) NOT NULL ,
+    PRIMARY KEY (id)
+);
